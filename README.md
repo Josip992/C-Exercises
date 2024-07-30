@@ -25,7 +25,6 @@ Select basic data structures and algorithms for independently creating simpler p
 Identify and point out errors in programs, recognize necessary basic operations with data structures.
 Formulate new solutions for programming problems or improve existing program code using learned algorithms and data structures.
 Evaluate algorithms and data structures in terms of time and space complexity of basic operations.
-Tentative Content:
 
 Introduction: arrays, structures, pointers, memory allocation, iteration, and recursion. Analysis of algorithm complexity. Singly and doubly linked lists. Queue and stack and their basic operations. Trees, binary search trees, and basic operations. Hash tables. Graphs and basic graph algorithms: depth-first search (DFS), breadth-first search (BFS), Dijkstra's algorithm. Priority queues. Sorting algorithms: quicksort, bubblesort, selection sort, mergesort. Min-max algorithm.
 
